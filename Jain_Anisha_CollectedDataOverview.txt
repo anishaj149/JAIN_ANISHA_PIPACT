@@ -1,0 +1,19 @@
+Anisha Jain
+anisha.j149@gmail.com
+
+This is data of my experiment on the effects of humidity and
+temperature in a close indoor environment. 
+
+Each .csv file is one data "group," i.e. a level in my experiment
+with many observations.
+
+There are 6 groups.
+
+Table of Contents:
+
+group_1_control.csv --> Humidity = 50%
+group_2.csv --> Humidity = 60%
+group_3.csv --> Humidity = 70%
+group_4.csv --> Humidity = 80%
+group_5.csv --> Humidity = 90%
+group_6.csv --> Humidity = 100%
